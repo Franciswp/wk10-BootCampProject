@@ -1,0 +1,8 @@
+POST localhost:8080/bootcamp/1/courses
+Content-Type: application/json
+
+{
+  "courseName": "Java Programming",
+  "courseCode": "JE 105",
+  "administration": "INSTRUCTOR"
+}

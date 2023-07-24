@@ -1,0 +1,8 @@
+POST localhost:8080/course/1/reviews
+Content-Type: application/json
+
+{
+  "courseName": "franksoft@yahoo.com",
+  "courseCode": "Best course so far",
+  "administration": "STUDENT"
+}

@@ -1,0 +1,8 @@
+POST localhost:8080/bootcamp
+Content-Type: application/json
+
+{
+  "name": "WBS Coding School",
+  "location": "Europe",
+  "city": "Berlin , Germany"
+}

@@ -1,0 +1,11 @@
+POST localhost:8080/bootcamp/3/users
+Content-Type: application/json
+
+{
+  "firstName": "Pretty",
+  "lastName": "Lady",
+  "emailAddress": "lady@gmx.de",
+  "administration": "INSTRUCTOR",
+  "password": 12345,
+  "rePassword": 12346
+}
